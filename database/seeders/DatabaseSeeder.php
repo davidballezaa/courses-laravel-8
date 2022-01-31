@@ -4,10 +4,7 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 
-use App\Models\User;
-use App\Models\Category;
-use App\Models\Course;
-use App\Models\Post;
+use App\Models\{User, Category, Course, Post};
 
 class DatabaseSeeder extends Seeder
 {
